@@ -1,4 +1,4 @@
-/* Zepto plugin : slide transition v1.0 */
+/* Zepto plugin : slide transition v1.1 */
 (function ($) {
 
     /* SlideDown */
