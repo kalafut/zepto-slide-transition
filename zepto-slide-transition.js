@@ -108,11 +108,11 @@
 
         // if the element is hidden, slideDown !
         if (this.height() == 0) {
-            this.slideDown();
+            this.slideDown(duration);
         }
         // if the element is visible, slideUp !
         else {
-            this.slideUp();
+            this.slideUp(duration);
         }
     };
 
