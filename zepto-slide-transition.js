@@ -8,7 +8,7 @@
         var position = this.css('position');
 
         // show element if it is hidden
-        this.show();
+        this.show(duration);
 
         // place it so it displays as usually but hidden
         this.css({
